@@ -1,0 +1,26 @@
+.navbar{
+    background-color: blue;
+    top:0;
+    width: 99%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    margin-right: 50px;
+    color: white;
+    display: flex;
+    font-size: 18px;
+}
+.a{
+    display: flex;
+    color: white;
+    align-items: end;
+    justify-content: space-between;
+    gap: 50px;
+    padding: 10px 20px;
+}
+.link{
+    color: white;
+}
+.button{
+    background-color: green;
+}
