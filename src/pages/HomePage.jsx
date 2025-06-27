@@ -8,7 +8,7 @@ const HomePage = () => {
         
             <div className="sub-div">
             <div className="image-container">
-            <img src="./public/images/vck1.jpg" width="100%" height="550px" alt="College" className="background-image" />
+            <img src="vck1.jpg" width="100%" height="550px" alt="College" className="background-image" />
             <div className="overlay-text">
                 <h1>Welcome to Vivekanand College!</h1>
                 <center><p>Your journey to excellence starts here.</p></center>
