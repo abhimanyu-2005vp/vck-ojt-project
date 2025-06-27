@@ -9,7 +9,7 @@ const HomePage = () => {
         
             <div className="sub-div">
             <div className="image-container">
-            <img src="./public/images/vck1.jpg" width="100%" height="250px" alt="College" className="background-image" />
+            <img src="./public/images/vck1.jpg" width="100%" height="550px" alt="College" className="background-image" />
             <div className="overlay-text">
                 <h1>Welcome to Vivekanand College!</h1>
                 <center><p>Your journey to excellence starts here.</p></center>
@@ -48,7 +48,7 @@ const HomePage = () => {
             <br/>
             <div className="c">
                 <p>Ready to explore our courses?</p>
-                <button className="btn">Expore Courses</button>
+                <button className="btn"><a href="/courses">Expore Courses</a></button>
             </div>
             </div>
                 <div className="footer">

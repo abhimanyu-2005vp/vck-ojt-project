@@ -1,3 +1,8 @@
+@media(max-width : 768){
+    .navbr{
+        flex-direction: column;
+    }
+}
 .main-container{
     background-color: aqua;
     position: absolute;
@@ -23,7 +28,7 @@
 }
 .background-image{
     width: 100%;
-    height: auto;
+    height: 350px;
     display: block;
 }
 .overlay-text{

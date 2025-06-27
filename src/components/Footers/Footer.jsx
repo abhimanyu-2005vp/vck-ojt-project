@@ -3,8 +3,7 @@ import '.sever/footer.jsx';
 const Footer = () => {
     return(
         <div className="footer">
-            <Header/>
-                    {/* <p>© 2025 Vivekanand College. All rights reserved.</p> */}
+            <Header/>            
         </div>
     )
 }
