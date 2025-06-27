@@ -1,5 +1,5 @@
 import Header from '../components/Headers/Header';
-import '../styles/pages.css'
+import '../styles/Pages.css'
 const HomePage = () => {
     return (
 <div className="main-container">
