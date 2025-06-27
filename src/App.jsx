@@ -5,7 +5,7 @@ import AboutPage from "./pages/AboutPage";
 import AdmissionPage from "./pages/AdmissionPage";
 import ContactPage from "./pages/ContactPage";
 import CoursecPage from "./pages/CoursesPage";
-// import ChatbotComponent from "./components/Chatbot/ChatbotComponent";
+import ChatbotComponent from "./components/Chatbot/ChatbotComponent";
 import DeveloperInfoPopup from "./components/Developerinfo/DeveloperInfoPopup";
 import { useState } from "react";
 
@@ -34,7 +34,7 @@ const App = () =>{
       <Route path="/courses" element={<CoursecPage/>}/>
       <Route path="/contact" element={<ContactPage/>}/>
     </Routes> 
-    {/* <ChatbotComponent/>  */}
+    <ChatbotComponent/> 
     </Router>
   </div>
   )

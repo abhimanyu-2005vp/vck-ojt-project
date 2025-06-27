@@ -1,4 +1,5 @@
-import Header from "../components/Header/Header"
+import Header from "../components/Headers/Header";
+
 const AboutPage = () =>{
     return(
         <div className="main-container">
